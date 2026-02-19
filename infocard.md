@@ -2,7 +2,7 @@
 name: Scott Stauffer
 title: Product Software Development Lead
 location: Oklahoma City, OK
-summary: Software developer with a proven record of cultivating innovation, organization-wide technical leadership, and building rockstar dev teams.
+summary: Dev lead with a proven record of cultivating innovation, organization-wide technical leadership, and building rockstar dev teams.
 tags: [csharp, java, sql, rabbitmq, azure, aws, oracle, boomi, distributed-systems, solutioning, govcon, deltek]
 open_to: [consulting, speaking, advisory]
 ---
