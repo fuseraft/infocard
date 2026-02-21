@@ -85,7 +85,7 @@ open_to: [consulting, speaking, advisory]
 - Formed the EBS Developer Committee to help identify topics to discuss in the monthly meeting.
 - Attend weekly meetings on the architecture team to discuss upcoming changes and cross-cutting concerns.
 
-### Lead Software Developer - ImageNet Consulting (Norman, OK)
+### Lead Software Developer - ImageNet Consulting (Oklahoma City, OK)
 *Aug 2017 – Jun 2019*
 
 - Principal developer for several integrations with eOriginal, Synnex, HP (SDS), Laserfiche, PayPal, etc.
@@ -105,8 +105,8 @@ open_to: [consulting, speaking, advisory]
 ### .NET Developer - Bogardus Medical Systems, Inc. (Oklahoma City, OK)
 *Jan 2014 – Aug 2015*
 
-- Helped implement a HIPAA compliant patient portal using VB.NET and ASP.NET WebForms application.
-- Maintained an electronic medical record system using VB.NET and SQL
+- Helped implement a HIPAA compliant patient portal using VB.NET and ASP.NET WebForms.
+- Maintained an electronic medical record system using VB.NET and SQL.
 - Built an interactive webinar system using WebAPI, MVC 4, jQuery, SignalR, WinForms, SQL Server, and COM (interop to PowerPoint).
 
 ---
