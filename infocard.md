@@ -3,7 +3,7 @@ name: Scott Stauffer
 title: Product Software Development Lead
 location: Oklahoma City, OK
 summary: Dev lead with a proven record of cultivating innovation, organization-wide technical leadership, and building rockstar dev teams.
-tags: [csharp, java, sql, rabbitmq, azure, aws, oracle, boomi, distributed-systems, solutioning, govcon, deltek]
+tags: [csharp, java, sql, rabbitmq, azure, aws, oracle, boomi, distributed-systems, solutioning, govcon, deltek, ai-agents, interpreter-design, dotnet]
 open_to: [consulting, speaking, advisory]
 ---
 
@@ -116,7 +116,17 @@ open_to: [consulting, speaking, advisory]
 ### The Kiwi Programming Language
 [https://github.com/fuseraft/kiwi](https://github.com/fuseraft/kiwi)
 
-Kiwi is a high-level, dynamically-typed language designed for efficiency and expressiveness across a variety of tasks.
+Kiwi is a modern, lightweight scripting language built for expressiveness and utility. Supports Linux, macOS, and Windows.
+
+### Zest
+[https://github.com/fuseraft/zest](https://github.com/fuseraft/zest)
+
+Package manager for the Kiwi Programming Language. Lets you install external Kiwi packages from GitHub, manage dependencies, and keep projects reproducible with a lock file.
+
+### Fuseraft CLI
+[https://github.com/fuseraft/fuseraft-cli](https://github.com/fuseraft/fuseraft-cli)
+
+A .NET multi-agent orchestration framework built on Microsoft Agent Framework and Microsoft.Extensions.AI. Define a team of AI agents in a YAML config and coordinate them across keyword routing, explicit state machine routing, LLM-based selection, or fully autonomous Magentic orchestration. Enforces mechanical progress guarantees using deterministic validators and change tracking. Works with Anthropic, xAI, OpenAI, Azure OpenAI, Ollama, and any OpenAI-compatible provider.
 
 ---
 
