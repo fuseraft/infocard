@@ -3,7 +3,7 @@ name: Scott Stauffer
 title: Product Software Development Lead
 location: Oklahoma City, OK
 summary: Dev lead with a proven record of cultivating innovation, organization-wide technical leadership, and building rockstar dev teams.
-tags: [csharp, java, sql, rabbitmq, azure, aws, oracle, boomi, distributed-systems, solutioning, govcon, deltek, ai-agents, interpreter-design, dotnet]
+tags: [csharp, java, sql, rabbitmq, azure, aws, oracle, boomi, distributed-systems, solutioning, govcon, deltek, ai-agents, interpreter-design, dotnet, typescript]
 open_to: [consulting, speaking, advisory]
 ---
 
@@ -127,6 +127,16 @@ Package manager for the Kiwi Programming Language. Lets you install external Kiw
 [https://github.com/fuseraft/fuseraft-cli](https://github.com/fuseraft/fuseraft-cli)
 
 A .NET multi-agent orchestration framework built on Microsoft Agent Framework and Microsoft.Extensions.AI. Define a team of AI agents in a YAML config and coordinate them across keyword routing, explicit state machine routing, LLM-based selection, or fully autonomous Magentic orchestration. Enforces mechanical progress guarantees using deterministic validators and change tracking. Works with Anthropic, xAI, OpenAI, Azure OpenAI, Ollama, and any OpenAI-compatible provider.
+
+### Fuseraft for VS Code
+[https://github.com/fuseraft/fuseraft-vscode](https://github.com/fuseraft/fuseraft-vscode)
+
+VS Code extension for running and managing Fuseraft multi-agent orchestrations without leaving the editor. Includes an interactive REPL chat panel with streaming responses and tool call badges, a task runner, session/config/context management views, CodeLens actions, and full JSON Schema IntelliSense for Fuseraft config files.
+
+### Skills
+[https://github.com/fuseraft/skills](https://github.com/fuseraft/skills)
+
+Reusable agent skills for productivity in a .NET shop, including a database connectivity, schema inspection, and SQL execution skill built around a dbconnect CLI tool.
 
 ---
 
