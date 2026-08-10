@@ -113,6 +113,11 @@ open_to: [consulting, speaking, advisory]
 
 ## Projects
 
+### Fuseraft CLI
+[https://github.com/fuseraft/fuseraft-cli](https://github.com/fuseraft/fuseraft-cli)
+
+A .NET multi-agent orchestration framework built on Microsoft Agent Framework and Microsoft.Extensions.AI. Define a team of AI agents in a YAML config and coordinate them across keyword routing, explicit state machine routing, LLM-based selection, or fully autonomous Magentic orchestration. Enforces mechanical progress guarantees using deterministic validators and change tracking. Works with Anthropic, xAI, OpenAI, Azure OpenAI, Ollama, and any OpenAI-compatible provider.
+
 ### The Kiwi Programming Language
 [https://github.com/fuseraft/kiwi](https://github.com/fuseraft/kiwi)
 
@@ -122,11 +127,6 @@ Kiwi is a modern, lightweight scripting language built for expressiveness and ut
 [https://github.com/fuseraft/zest](https://github.com/fuseraft/zest)
 
 Package manager for the Kiwi Programming Language. Lets you install external Kiwi packages from GitHub, manage dependencies, and keep projects reproducible with a lock file.
-
-### Fuseraft CLI
-[https://github.com/fuseraft/fuseraft-cli](https://github.com/fuseraft/fuseraft-cli)
-
-A .NET multi-agent orchestration framework built on Microsoft Agent Framework and Microsoft.Extensions.AI. Define a team of AI agents in a YAML config and coordinate them across keyword routing, explicit state machine routing, LLM-based selection, or fully autonomous Magentic orchestration. Enforces mechanical progress guarantees using deterministic validators and change tracking. Works with Anthropic, xAI, OpenAI, Azure OpenAI, Ollama, and any OpenAI-compatible provider.
 
 ### Fuseraft for VS Code
 [https://github.com/fuseraft/fuseraft-vscode](https://github.com/fuseraft/fuseraft-vscode)
