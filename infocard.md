@@ -113,6 +113,11 @@ open_to: [consulting, speaking, advisory]
 
 ## Projects
 
+### anchor
+[https://github.com/fuseraft/anchor](https://github.com/fuseraft/anchor)
+
+A small, safe-by-default coding agent for the terminal, written in .NET. One model works in one directory through a handful of tools, and a deterministic harness decides what it may touch: writes and most shell commands ask first, while secret files and dangerous commands are always denied. Full-screen terminal UI, sub-agents, Agent Skills, and MCP servers, with scriptable `-p` and JSON modes. Works with Claude and any OpenAI-compatible API on Linux, macOS, and Windows.
+
 ### Fuseraft CLI
 [https://github.com/fuseraft/fuseraft-cli](https://github.com/fuseraft/fuseraft-cli)
 
@@ -123,10 +128,10 @@ A .NET multi-agent orchestration framework built on Microsoft Agent Framework an
 
 Kiwi is a modern, lightweight scripting language built for expressiveness and utility. Supports Linux, macOS, and Windows.
 
-### Zest
-[https://github.com/fuseraft/zest](https://github.com/fuseraft/zest)
+### Compendium
+[https://github.com/fuseraft/compendium](https://github.com/fuseraft/compendium)
 
-Package manager for the Kiwi Programming Language. Lets you install external Kiwi packages from GitHub, manage dependencies, and keep projects reproducible with a lock file.
+Connects AI agents to the documents an enterprise already has (SharePoint, Confluence, markdown wikis) and turns them into a living, agent-curated knowledge catalog of its architecture, systems, and business processes. Every concept is a plain markdown file in the Open Knowledge Format, kept in git, with provenance and staleness fields so an agent-maintained catalog stays honest.
 
 ### Fuseraft for VS Code
 [https://github.com/fuseraft/fuseraft-vscode](https://github.com/fuseraft/fuseraft-vscode)
