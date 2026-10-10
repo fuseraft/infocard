@@ -9,7 +9,7 @@ open_to: [consulting, speaking, advisory]
 
 # Scott Stauffer
 
-**Product Software Development Lead** · Yukon, OK  
+**Product Software Development Lead** · Oklahoma City, OK  
 [scott@fuseraft.com](mailto:scott@fuseraft.com)  
 
 [GitHub](https://github.com/fuseraft) · [LinkedIn](https://linkedin.com/in/scottcstauffer/)
