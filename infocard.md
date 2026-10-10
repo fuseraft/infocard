@@ -28,7 +28,7 @@ open_to: [consulting, speaking, advisory]
 *Aug 2023 – Present*
 
 - Mentor and grow technical talent from junior developers and interns to senior developers and dev leads.
-- Design, build, and maintain distributed systems using .NET 8, Blazor, Web API, Boomi, Oracle, SQL Server, RabbitMQ, Azure, and Kubernetes.
+- Design, build, and maintain distributed systems using .NET 10, Blazor, Web API, Boomi, Oracle, SQL Server, RabbitMQ, Azure, and Kubernetes.
 - Run the monthly EBS Developer Meeting to encourage cross-team collaboration between all the dev teams in Enterprise Business Systems.
 - Run twice-weekly code review meetings to review all code modified or produced by developers across EBS.
 - Run weekly solutioning meetings to solution and refine items in the backlog and upcoming sprints ensuring all items are fit-for-purpose.
